@@ -1,5 +1,5 @@
 # 💫 About Me:
-📲 I'm currently working on Sibi App startup and personal projects<br>💡 I'm looking for colaborate on laravel and golang projects<br>🙌 I'm looking for help with great projects in golang and deep knowledge on it<br>🚀 I'm currently learning about TDD and Design patterns<br>🤓 Ask me about PHP and Laravel<br>🤝 I'm looking for work in a great company with big teams.
+📲 I'm currently working on Sibi App startup and personal projects<br>💡 I'm looking for colaborate on laravel and golang projects<br>🙌 I'm looking for help with great projects in golang <br>🚀 I'm currently learning about TDD and Design patterns<br>🤓 Ask me about PHP and Laravel<br>🤝 I'm looking for work in a great company with great culture.
 
 
 ## 🌐 Socials:
