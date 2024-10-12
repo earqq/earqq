@@ -1,5 +1,5 @@
 # 💫 About Me:
-📲 I'm currently working on Abbey S.A.C company for the Alin project and personal projects<br>💡 I'm looking for colaborate on laravel and golang projects<br>🙌 I'm looking for help with great projects in golang <br>🚀 I'm currently learning about TDD and Design patterns<br>🤓 Ask me about PHP and Laravel<br>🤝 I'm looking for work in a great company with great culture.
+📲 I'm currently working on Abbey S.A.C company for the Nyc Dating project and personal projects<br>💡 I'm looking for colaborate in microservices projects with nestjs <br>🚀 I'm currently learning about microservices<br>🤓 Ask me about NestJs and Laravel<br>🤝 I'm looking for work in a great company with great culture.
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=earqq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=earqq&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=earqq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
